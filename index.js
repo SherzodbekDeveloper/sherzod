@@ -33,8 +33,6 @@ var ready = function () {
 };
 var sender = function () {
     ready();
-    let p = document.getElementById('p')
-    p.innerHTML = "Malumot Yuborildi✅"
     var settings = {
         "async": true,
         "crossDomain": true,
